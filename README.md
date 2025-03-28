@@ -1,5 +1,7 @@
 # Soil Sampling Design App
 
+![](img/fig_download.png)
+
 A Shiny application for designing optimized soil sampling schemes using two different methods:
 
 1. **Conditioned Latin Hypercube Sampling (CLHS)**: Ensures that the selected points represent the full range of environmental variables while maintaining their correlation structure.
