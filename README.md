@@ -139,12 +139,6 @@ When additional samples are needed to complement existing data:
 2. Upload or select existing sample points
 3. The algorithm will generate new points optimized to fill gaps in spatial coverage
 
-## Folder Structure
-
-- `app.R`: Main application file containing both UI and server logic
-- `data/`: Directory for input data files (optional, for local files)
-- `outputs/`: Directory for exported results (created automatically)
-
 ## Troubleshooting
 
 - **Memory Issues**: Large raster files may cause memory problems. Consider reducing resolution or extent.
